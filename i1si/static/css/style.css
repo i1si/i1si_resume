@@ -1,0 +1,23 @@
+body {
+    background-color: #252627 !important;
+    color: white !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.face-img {
+    max-width: 100%;
+}
+
+.lang-switcher {
+    margin: 5px 0;
+    color: #0d6efd;
+}
+
+.lang-switcher:hover {
+    cursor: pointer;
+    color: rgb(10, 88, 202);
+}
